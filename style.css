@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 .logo{
-    width: 35%;
+    width: 10%;
 }
 
 .container-fluid{
@@ -19,8 +19,4 @@
 .container{
      background-color: black
      
-}
-.footerpage{
-    margin: 0;
-    padding: 0
 }
