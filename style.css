@@ -1,0 +1,26 @@
+*{  margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.logo{
+    width: 35%;
+}
+
+.container-fluid{
+    background-color: rgb(235, 200, 217);
+}
+
+.costbody{
+     background-color: rgb(12, 1, 7);
+}
+.contentpart{
+       background-color: rgb(12, 1, 7);   
+}
+.container{
+     background-color: black
+     
+}
+.footerpage{
+    margin: 0;
+    padding: 0
+}
